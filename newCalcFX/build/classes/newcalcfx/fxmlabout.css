@@ -1,0 +1,16 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.aboutDialog{
+    -fx-background-color: bisque;
+    -fx-background-radius: 15 15 15 15;
+}
+
+.aboutbtnCloseDialog{
+    -fx-background-color: lightseagreen;
+    -fx-background-radius: 15 15 15 15;
+}

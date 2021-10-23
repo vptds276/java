@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.root {
+    -fx-background-color: #222;
+    -fx-background-radius: 15;
+}
+
+.mainPane{
+    -fx-background-color:lightseagreen;
+    -fx-background-radius: 15 15 15 15;
+}
+
+.lightElem{
+    -fx-background-color: bisque;
+    -fx-background-radius: 15 15 15 15;
+}

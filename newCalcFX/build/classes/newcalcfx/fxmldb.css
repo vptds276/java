@@ -1,0 +1,17 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.lightElem{
+    -fx-background-color: bisque;
+    -fx-background-radius: 15 15 0 0 ;
+}
+.dbTbl{
+    -fx-background-color: bisque;
+    -fx-background-radius: 15 15 15 15;
+}
+
